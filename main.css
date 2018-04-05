@@ -1,0 +1,151 @@
+/*Stylesheets sections*/
+/*FreeCodeCamp Project Tribute*/
+
+<html lang="en">
+    <head>
+        <title> Tribute</title>
+        <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  /*External CSS*/
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        /*Always force latest IE rendering engine (even in intranet) & Chrome Frame
+        Remove this if you use the .htaccess*/
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+        /*Margin for each side*/
+<style>
+    div {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-right: 25px;
+    margin-left: 5px;
+    }
+    </style>
+    
+  /*-List-style-position property*/
+<style>
+ul .b {
+list-style-position: inside;
+}
+</style>
+/*End*/
+
+<div class="container-fluid">
+/*Create a Bootstrap Row*/
+    <div class="row">
+      <div class="col-xs-12">
+      
+     /*Jumbotron and Page Header*/
+      
+<div class="jumbotron text-center">
+    <h1 class="text-center">Lorem Ipsum</h1>
+     <h2 class="text-center"><em>Lorem ipsum dolor sit amet</em></h2>
+    <img class="img-responsive" src="https://lipsum.com/feed/html" alt="Lorem Ipsum"width="1500" height="800">
+</div>
+  <br>
+  <body>
+<div class="caption text-center"><div class="caption text-center"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet auctor ligula, in efficitur tortor. 
+   </i></div>
+<br>
+  <div class="row">
+ </div>
+<h2> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet auctor ligula, in efficitur tortor:</h2>
+    <br>
+  <div class="text-justify">
+  <ul class="b">
+    <ul>
+    <ul>
+ <li><strong>Lorem</strong> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet auctor ligula, in efficitur tortor.
+                </li>
+            </li>
+        </ul>
+     </div>
+        </body>
+     <hr>
+     <br>
+     <br>
+
+/*Blockquote -quotations*/
+
+<p><h3>>Lorem Ipsum</h3></p>
+    <div class="col-sm-12">
+    <h4>QUOTES</h4>
+        <blockquote>
+            <i>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..." 
+            </i>
+            <footer><cite>Lorem Ipsum</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+    </div> 
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>Written and coded by <a href="https://www.freecodecamp.com/marjory00" target="_blank">Marjory Marquez.</a></p>
+  </footer>  
+</div> 
+</head>
+</html> 
+/*End Section */
+
+/*Some Stylesheets */
+/*Inline CSS*/
+<body>
+	<h1 style="color:grey;">Lorem Ipsum</h1> 
+</body>
+ 
+/*Section 1 -Internal CSS -to define a style for a single HTML page */
+    <head>
+    <style>
+        body {background-color: grey;}
+            h1   {color: black;}
+            p    {color: black;}
+        </style>
+    </head>
+</body>
+
+
+/*External CSS - Used to define style for many HTML pages */
+        <head>
+	</head>
+
+
+/* CSS Boder defines a border around an HTML*/
+        <head>
+    <style>
+    p {
+    border: 1px solid grey;
+    }
+    </style>
+</head>
+
+
+/*CSS Padding -defines a padding (space) between the text and the border */
+
+<head>
+<style>
+p {
+    border: 1px solid grey;
+    padding: 30px;
+}
+</style>
+</head>
+
+/*CSS Margin -defines a margin (space outside the border*/
+<head>
+<style>
+p {
+    border: 1px solid grey;
+    margin: 50px;
+}
+</style>
+</head>
+
+/* More CSS */
+
+
