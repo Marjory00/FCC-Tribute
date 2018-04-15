@@ -10,6 +10,6 @@ Tribute to Rhonda Byrne
 4.	User Story: I can click on a link that will take me to an external website with further information on the topic.
 
 
-# FCC-Tribute Project Link/
+## FCC-Tribute Project Link
 
 https://marjory00.github.io/FCC-Tribute/
